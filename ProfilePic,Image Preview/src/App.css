@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+form{
+  background-image: url(https://imgv3.fotor.com/images/share/Free-blue-gradient-pattern-background-from-Fotor.jpg);
+  padding: 20px;
+  display: inline-block;
+}
+form div{
+  margin: 20px;
+
+}
+form label{
+  display: inline-block;
+  width: 100px;
+}
+.innerlabel{
+  width: auto;
+}
+h2{
+ background-image: url(https://st5.depositphotos.com/35914836/63548/i/450/depositphotos_635487238-stock-photo-abstract-background-neon-light-motion.jpg);
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.profilePicPreview{
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+}
